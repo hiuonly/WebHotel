@@ -50,14 +50,6 @@
         <url-pattern>/mybill</url-pattern>
     </filter-mapping>
     <servlet>
-        <servlet-name>test</servlet-name>
-        <servlet-class>ServletAdmin.test</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>test</servlet-name>
-        <url-pattern>/test</url-pattern>
-    </servlet-mapping>
-    <servlet>
         <servlet-name>homepageControl</servlet-name>
         <servlet-class>control.homepageControl</servlet-class>
     </servlet>
